@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Paddy (mr-paddy)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380 alt="coding gif"/>
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC.webp" align="right" width="360" alt="Typing furiously"/>
 
 **Computer Science student @ Royal Holloway, University of London**  
 Currently grinding java, building small projects, and trying not to break everything.
