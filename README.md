@@ -1,16 +1,53 @@
-- 👋 Hi, I’m Paddy (@mr-paddy)
+# Hey there 👋 I'm Paddy (mr-paddy)
 
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2M0MzZlZXFudzFkd2dzZHMyMmFucWYyODVhN2w4bnExbGtoZGYxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380 alt="coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="380 alt="coding gif"/>
 
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+**Computer Science student @ Royal Holloway, University of London**  
+Currently grinding java, building small projects, and trying not to break everything.
 
-  
-- 👀 I’m interested in Sofware Engineering
-- 🌱 I’m currently learning IT in Croydon College.
-- 💞️ I’m looking to collaborate on coding projects. I'm not that good at coding so i want someone to technically mentor me as i learn my way around the coding languages.
-- 📫 How to reach me - mr.paddy1503@gmail.com
+🌱 I'm still early in my coding journey — honestly not that good yet — but I'm super motivated and learn fast  
+👯 I'm actively looking for people to collaborate with (especially patient ones who don't mind explaining things twice 😂)  
+💡 Especially interested in: Python, Web Dev, Automation scripts, anything fun or useful  
+🤝 Open to pair-programming, code reviews, or just someone to bounce ideas off  
+🎯 2026 goal → land my first software engineering internship
 
-<!---
-mr-paddy/mr-paddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚡️ Tech I'm comfortable(ish) with
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+</p>
+
+### 📊 GitHub Stats (because everyone loves these)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-paddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-paddy&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-paddy&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-paddy&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="t="trophies"/>
+</div>
+
+### 📫 Let's connect!
+- ✉️ Email → [mr.paddy1503@gmail.com](mailto:mr.paddy1503@gmail.com) (I reply fast, promise)
+- 💼 LinkedIn → (add your LinkedIn here when you make one — highly recommended!)
+- 🐦 Twitter/X → @mr-paddy (if you ever make one, put it here)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-paddy&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <i>"I'm not a great programmer; I'm just a good programmer with great habits." — Kent Beck</i>
+</p>
+
+---
+
+⭐️ If you like what you see, star this repo — it actually means a lot to beginners like me!
