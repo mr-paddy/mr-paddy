@@ -20,12 +20,7 @@ Currently grinding java, building small projects, and trying not to break everyt
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
-### 📊 GitHub Stats (because everyone loves these)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-paddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-paddy&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+### 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-paddy&theme=tokyonight&hide_border=true" alt="streak stats"/>
@@ -37,8 +32,8 @@ Currently grinding java, building small projects, and trying not to break everyt
 
 ### 📫 Let's connect!
 - ✉️ Email → [mr.paddy1503@gmail.com](mailto:mr.paddy1503@gmail.com) (I reply fast, promise)
-- 💼 LinkedIn → (add your LinkedIn here when you make one — highly recommended!)
-- 🐦 Twitter/X → @mr-paddy (if you ever make one, put it here)
+- 💼 LinkedIn → www.linkedin.com/in/paddy2003
+- 🐦 Twitter/X → @mr-paddyy 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-paddy&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
