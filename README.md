@@ -5,11 +5,11 @@
 **Computer Science student @ Royal Holloway, University of London**  
 Currently grinding java, building small projects, and trying not to break everything.
 
-🌱 I'm still early in my coding journey — honestly not that good yet — but I'm super motivated and learn fast  
-👯 I'm actively looking for people to collaborate with (especially patient ones who don't mind explaining things twice 😂)  
-💡 Especially interested in: Python, Web Dev, Automation scripts, anything fun or useful  
-🤝 Open to pair-programming, code reviews, or just someone to bounce ideas off  
-🎯 2026 goal → land my first software engineering internship
+I'm still early in my coding journey — honestly not that good yet — but I'm super motivated and learn fast  
+I'm actively looking for people to collaborate with (especially patient ones who don't mind explaining things twice 😂)  
+Especially interested in: Python, Web Dev, Automation scripts, anything fun or useful  
+Open to pair-programming, code reviews, or just someone to bounce ideas off  
+🎯 2027 goal → land my first software engineering internship
 
 ### ⚡️ Tech I'm comfortable(ish) with
 <p>
