@@ -19,8 +19,11 @@ I'm particularly interested in software engineering, backend development, web te
 
 ### 📂 Projects
 BitJack – A Blackjack game project.
+
 Monate Gallery – A website project for a West African art gallery.
+
 Skin Luxe – An Ghanaian e-commerce website project.
+
 Canteen App – A university-related application project.
 
 ### 📊 GitHub Stats 
