@@ -33,7 +33,8 @@ Open to pair-programming, code reviews, or just someone to bounce ideas off
 ### 📫 Let's connect!
 - ✉️ Email → [mr.paddy1503@gmail.com](mailto:mr.paddy1503@gmail.com) (I reply fast, promise)
 - 💼 LinkedIn → www.linkedin.com/in/paddy2003
-- 🐦 Twitter/X → @mr-paddyy 
+- 🐦 Twitter/X → @mr-paddyy
+- 🌐 website → www.kwame-aidoo.vercel.app
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-paddy&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
